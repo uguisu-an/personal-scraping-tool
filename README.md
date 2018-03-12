@@ -11,6 +11,6 @@
 
 ## 使用例
 
-```python
+```bash
 $ python get_pokemon_items.py | sed -e 's/[^0-9a-zA-Z]\{1,\}//g'
 ```
